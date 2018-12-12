@@ -23,4 +23,5 @@ object hello { // object name must be the same as the filename
 Then run:
 
 `sbt run` # executes the file
+
 `sbt console` # gets you an interactive console to try things
